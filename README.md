@@ -69,7 +69,7 @@ Um sistema interativo que permite:
 
 > Executado diretamente no Google Colab usando `ipywidgets` para interação:
 
-![Exemplo do sistema rodando no Colab](https://imgur.com/a/cEcQrJW)  
+https://imgur.com/a/cEcQrJW  
 
 LINK DO Google Colab: https://colab.research.google.com/drive/1vKdyEvgUR2pfmV9d5dztSQJK0SwvK5te?usp=sharing
 
